@@ -1,3 +1,23 @@
+
+##### 精盾u47t1 黑苹果 11.4 opencore 已定制usb
+####最终效果
+![image.png](https://upload-images.jianshu.io/upload_images/9126595-97a4af4abc8e2d98.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/9126595-e31044ff3ee6589a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/9126595-272adb50f66f2503.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/9126595-b3d015471565b6fc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/9126595-bd61cff08be6f524.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+wifi驱动教程:https://www.jianshu.com/p/f76abab8ee1c
+
+- 蓝牙正常
+- wifi正常
+- 集显正常
+- 电池正常
+- 声卡正常
+- hdmi正常
+- 触摸板正常
+- 键盘正常
+- 睡眠正常
 ##### 精盾u47t1 黑苹果 10.14clover
 
 效果如下：
@@ -18,12 +38,11 @@
 - 键盘
 - hdmi外接显示器
 - 睡眠
-- 蓝牙（usb外接）
+- 蓝牙
 - 有线网络
-- wifi（usb外接）
+- wifi
 
 ##### 问题：
 
 - 休眠偶尔不好使
 - 不插电源开机，键盘才能用（这个好扯淡）
-- 网卡是英特尔 Wireless-AC 9462无法驱动，而且是基于cvmi协议，目前没有免驱的博通网卡
